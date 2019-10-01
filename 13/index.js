@@ -26,4 +26,4 @@ var romanToInt = function (s) {
     }
     return _number;
 };
-romanToInt("IV")
+romanToInt("III")
