@@ -12,4 +12,3 @@ var isValid = function (s) {
     }
     return true;
 };
-isValid("")
